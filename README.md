@@ -29,6 +29,7 @@ Based on the analysis, the following findings and recommendations were developed
 
 ### 4.1. Inventory and Logistics Management
 Finding: Stores 12 and 19 face a higher out-of-stock rate compared to other stores. This is attributed to a higher number of orders, a larger average number of products per order, and a higher number of returned orders
+
 Recommendation: Implement a dynamic inventory system that adjusts stock levels based on real-time sales data and demand forecasts.
 Recommendation: Improve logistics for these specific stores by collaborating with local suppliers or establishing small warehouses nearby.
 
