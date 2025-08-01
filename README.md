@@ -31,16 +31,23 @@ Based on the analysis, the following findings and recommendations were developed
 Finding: Stores 12 and 19 face a higher out-of-stock rate compared to other stores. This is attributed to a higher number of orders, a larger average number of products per order, and a higher number of returned orders
 
 Recommendation: Implement a dynamic inventory system that adjusts stock levels based on real-time sales data and demand forecasts.
+
 Recommendation: Improve logistics for these specific stores by collaborating with local suppliers or establishing small warehouses nearby.
 
 ### 4.2. Increasing VoltEdge-Branded Product Sales
 Finding: VoltEdge-branded products have a lower average rating (3.84) compared to global brands (4.25), which suggests potential quality or user experience issues.
+
 Finding: The price-to-rating ratio for VoltEdge products (1.7) is lower than for global brands (1.9), indicating that customers may not perceive the brand's value proposition as strong
+
 Recommendation: Enhance product quality and design by investing in R&D and gathering customer feedback.
+
 Recommendation: Refine pricing strategies for VoltEdge-branded products to better reflect their value and customer willingness to pay
 
 ### 4.3. Customer Segmentation and Loyalty
 Finding: The customer base can be segmented into four distinct clusters: "Occasional Shoppers," "Tech Enthusiasts," "Budget Buyers," and "High-Value Spenders"
+
 Finding: "Occasional Shoppers" are price-sensitive, have a low average order value ($50-100), and mainly purchase VoltEdge products. "Tech Enthusiasts" purchase both global and VoltEdge brands, have a medium average order value ($150-250), and are rating-conscious. "High-Value Spenders" have a high average order value ($400+), purchase global brands, and are responsive to promotions.
+
 Recommendation: Target "Occasional Shoppers" and "Tech Enthusiasts" with personalized promotions and bundled offers
+
 Recommendation: Improve customer loyalty among "High-Value Spenders" by offering exclusive early access to new products or special events.
